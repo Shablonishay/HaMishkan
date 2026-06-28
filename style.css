@@ -665,8 +665,8 @@ body { font-family: 'Heebo', sans-serif; background: var(--cream); color: var(--
     50%       { box-shadow: 0 4px 16px 2px rgba(201,169,110,0.28); }
 }
 
-.couple-title {
-    color: #fff;
+.couple-strip .couple-title {
+    color: #fff !important;
     font-family: 'Frank Ruhl Libre', serif;
     font-size: 1rem;
     font-weight: 600;
@@ -674,8 +674,8 @@ body { font-family: 'Heebo', sans-serif; background: var(--cream); color: var(--
     letter-spacing: 0.02em;
 }
 
-.couple-desc {
-    color: rgba(255,255,255,0.85);
+.couple-strip .couple-desc {
+    color: rgba(255,255,255,0.88) !important;
     font-size: 0.875rem;
     line-height: 1.65;
     margin: 0;
