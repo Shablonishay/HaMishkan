@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // To add a photo: put NN.webp in assets/gallery and a 240px copy in assets/gallery/thumbs, then add a line here.
     const PHOTOS = [
         ['01', 'הוילה בשעת ערב'],
-        ['02', 'החצר האחורית עם רדת החשכה'],
+        ['02', 'החצר עם רדת החשכה'],
         ['03', 'חזית האחוזה'],
         ['04', 'בריכת השחייה הענקית'],
         ['05', 'הבריכה – כניסה במדרגות'],
