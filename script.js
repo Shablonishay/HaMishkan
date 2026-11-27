@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
         ['30', 'שולחן פינג־פונג'],
         ['31', 'מגרש משחקים'],
         ['32', 'טרמפולינה'],
-        ['33', 'גן שעשועים'],
+        ['33', 'גן שעשועים סמוך'],
     ].map(([n, alt]) => ({ src: `assets/gallery/${n}.webp`, thumb: `assets/gallery/thumbs/${n}.webp`, alt }));
 
     const track = document.getElementById('carouselTrack');
